@@ -1,0 +1,10 @@
+{
+  "welcomeMessage": "Thanks for joining, {{ firstName }}! It's great to have you!",
+  "email": "Email",
+  "password": "Password",
+  "signin": "Log in",
+  "signup": "Sign Up",
+  "email_validation": "Please provide a valid email.",
+  "password_validation": "Please provide a password mininum 3 characters long.",
+  "credential_validation": "Invalid credentials."
+}
